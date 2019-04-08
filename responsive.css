@@ -1,0 +1,18 @@
+@media all and (max-width: 670px) {
+  .genre {
+    width: 44%;
+    margin: 5vw 0px;
+  }
+
+  .top-message-wrapper h1 {
+    font-size: 40px;
+  }
+
+  .feature{
+    width:80%;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+
+}
